@@ -10,6 +10,20 @@
 
 
 
+## 预览效果
+
+预览1：
+
+![](https://raw.githubusercontent.com/liulongbin1314/typora-theme/master/img/escook-light.png)
+
+
+
+预览2：
+
+![](https://raw.githubusercontent.com/liulongbin1314/typora-theme/master/img/escook-light-2.png)
+
+
+
 ## License
 
 ```
